@@ -1,4 +1,4 @@
-Hi I'm Utkarsh 👋 👩🏾‍💻
+Hello, Waving hand animated gif I'm Utkarsh Sharma
 
 👨🏻‍💻  About Me
 🎓  I'm currently studying Computer Science Engineering at ABES Engineering College.
@@ -7,8 +7,7 @@ Hi I'm Utkarsh 👋 👩🏾‍💻
 
 🌱  I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.
 
-✉️  You can shoot me an email at utkarsh.sharma19072002@gmail.com! I'll try to respond as soon as I can.
-
+✉️  You can shoot me an email at utkarsh.sharma19072002@gmail.com! 
                   
 
 <!--
