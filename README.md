@@ -2,8 +2,7 @@ Hi,I'm Utkarsh Sharma 👋
 
 
 👨🏻‍💻  About Me
-🎓  I'm currently studying Computer Science Engineering at ABES Engineering College.  ![image](https://github.com/Utkarshs19/Utkarshs19/assets/95514959/8aeeadaf-2918-4533-861e-d0b6fd0a53f4)
-
+🎓  I'm currently studying Computer Science Engineering at ABES Engineering College. 
 
 💡  Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.
 
