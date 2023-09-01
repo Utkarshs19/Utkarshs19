@@ -2,14 +2,14 @@ Hi I'm Utkarsh 👋 👩🏾‍💻
 
 👨🏻‍💻  About Me
 🎓  I'm currently studying Computer Science Engineering at ABES Engineering College.
+
 💡  Some technologies I enjoy working with include ReactJS, JavaScript, NodeJS and ExpressJS.
+
 🌱  I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.
+
 ✉️  You can shoot me an email at utkarsh.sharma19072002@gmail.com! I'll try to respond as soon as I can.
 
-                  Find me around the web 🌎
-                    Sharing updates on LinkedIn 😇
-                    Struggling on LeetCode 😍
-
+                  
 
 <!--
 **Utkarshs19/Utkarshs19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
