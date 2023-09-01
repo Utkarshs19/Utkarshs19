@@ -1,4 +1,4 @@
-Hi,I'm Utkarsh Sharma 👋![Uploading WavingHelloGIF (2).gif…]()
+Hi,I'm Utkarsh Sharma 👋
 
 
 👨🏻‍💻  About Me
