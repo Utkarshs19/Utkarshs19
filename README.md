@@ -8,7 +8,7 @@ Hi,I'm Utkarsh Sharma 👋
 
 🌱  I'm on track for learning more about Cross-Platform Development, Systems Design, and Algorithms.
 
-✉️  You can shoot me an email at utkarsh.sharma19072002@gmail.com! 
+✉️  You can shoot me an email at utkarsh.sharma19072002@gmail.com
                   
 
 <!--
