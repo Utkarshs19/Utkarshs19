@@ -1,6 +1,5 @@
 Hi,I'm Utkarsh Sharma 👋
 
-
 👨🏻‍💻  About Me
 
 🎓  I'm currently studying Computer Science Engineering at ABES Engineering College. 
